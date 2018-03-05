@@ -11,4 +11,7 @@ BNK48 เป็นวง Idol Girl Group ที่ได้รับความ
 </p>
 
 โดยมีเฌอปราง อารีย์กุล(เฌอปราง aka แคปเฌอ) เป็น Captain ประจำวงผู้สนใจสามารถติดตามผลงานน้องๆได้ที่ https://www.facebook.com/bnk48official/ 
+## Contributors 
 
+1. [Korakot Chaovavanich](https://github.com/korakot)
+2. [Thatchaphon Kaeosuriya](https://github.com/tigerstat46)
