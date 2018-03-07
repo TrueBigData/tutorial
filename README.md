@@ -8,4 +8,4 @@ We will use Anaconda Distributor
 3. If you want to use R in Jupyter Notebook please follow https://irkernel.github.io
 
 ## List of tutotial
-1. [Web Scraping feat BNK48](https://github.com/TrueBigData/tutorial/tree/master/BNK48_Data)
+1. [Web Scraping feat. BNK48](https://github.com/TrueBigData/tutorial/tree/master/BNK48_Data)
