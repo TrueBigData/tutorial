@@ -6,7 +6,7 @@ This tutorial show how to collect data from website
 3. If you not install Python from Anaconda, please run this command in PowerShell/cmd(Windows) or Terminals(macOS and Linux)
 
 ```Bash
-pip install -U -r requirement.txt
+pip install -U -r requirements.txt
 ```
 
 ## About BNK48
