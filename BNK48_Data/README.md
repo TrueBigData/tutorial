@@ -3,7 +3,7 @@ This tutorial show how to collect data from website
 ## Requirements
 1. Python 2 or 3 (In this tutorial use Python 3)
 2. Internet Connection(I'm make sure internet bring you here)
-3. If you not install Python from Anaconda, please run 
+3. If you not install Python from Anaconda, please run this command in PowerShell/cmd(Windows) or Terminals(macOS and Linux)
 
 ```Bash
 pip install -U -r requirement.txt
