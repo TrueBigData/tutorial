@@ -9,3 +9,9 @@ We will use Anaconda Distributor
 
 ## List of tutotial
 1. [Web Scraping feat. BNK48](https://github.com/TrueBigData/tutorial/tree/master/BNK48_Data)
+
+## Cloning Repository
+You can type the following command to clone tutorial repository for runing in your local computer
+```Bash
+$ git clone https://github.com/TrueBigData/tutorial
+```
