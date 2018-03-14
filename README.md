@@ -15,3 +15,7 @@ You can type the following command to clone tutorial repository for runing in yo
 ```Bash
 $ git clone https://github.com/TrueBigData/tutorial
 ```
+
+## Contributors
+1. [Thatchaphon Kaeosuriya](https://github.com/tigerstat46)
+2. [Korakot Chaovavanich](https://github.com/korakot)
