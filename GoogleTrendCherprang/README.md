@@ -12,3 +12,6 @@ pip install pytrends
 
 ### About Library
 You can follow via https://github.com/GeneralMills/pytrends
+
+## About Cherprang
+<img src="https://user-images.githubusercontent.com/36840742/37519935-aeff2ad0-294d-11e8-8685-c7ec0aa4aad8.jpg" width="70%"></img>
