@@ -9,7 +9,8 @@ We will use Anaconda Distributor
 
 ## List of tutotial
 1. [Web Scraping feat. BNK48](https://github.com/TrueBigData/tutorial/tree/master/BNK48_Data)(Python)
-2. Under Construction
+2. [Google Trend feat. Cherprang BNK48](https://github.com/TrueBigData/tutorial/tree/master/GoogleTrendCherprang)(Python) - In Progress
+3. Not Started
 ## Cloning Repository
 You can type the following command to clone tutorial repository for runing in your local computer
 ```Bash
